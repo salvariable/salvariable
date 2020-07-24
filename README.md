@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Salvador
-
+### Hi there 👋 
 - 🔭 I’m currently working on React Native Web related projects
 - 🌱 I’m currently learning Apollo GraphQL and (how-to-get-rid-of) Redux
 - 👯 I’m looking to collaborate on mobile projects with a social impact
