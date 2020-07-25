@@ -5,3 +5,15 @@
 - 🤔 I’m looking for help with development planning
 - 💬 Ask me about philosophy, psychology and introspection
 - 📫 How to reach me: DM me on Twitter (same username)
+
+<span>
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/expo.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+</span>
