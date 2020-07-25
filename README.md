@@ -9,6 +9,10 @@
   <p>🤓  I have experience working with these:</p>  
 </ul>
 
+<!--START_SECTION:waka-->
+80ad6ade-c752-4074-a31d-06e875f7fe16
+<!--END_SECTION:waka-->
+
 <span>
   <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/expo.svg">
@@ -21,4 +25,7 @@
   <img height="48px" src="https://cdn.svgporn.com/logos/eslint.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/prettier.svg">
 </span>
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
 
