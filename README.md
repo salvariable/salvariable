@@ -1,6 +1,5 @@
 ### Hi there 👋 
-
-<li>
+<ul>
   <p>🔭  I’m currently working on React Native Web related projects</p>
   <p>🌱  I’m currently learning Apollo GraphQL and alternatives to Redux</p>
   <p>👯  I’m looking to collaborate on mobile projects with a social impact</p>  
@@ -8,7 +7,7 @@
   <p>💬  Ask me about philosophy, psychology and introspection</p>  
   <p>📫  How to reach me: DM me on Twitter (same username)</p>  
   <p>🤓  I have experience working with these:</p>  
-</li>
+</ul>
 
 <span>
   <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
