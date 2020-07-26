@@ -23,6 +23,9 @@
   <img height="48px" src="https://cdn.svgporn.com/logos/git.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/eslint.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/prettier.svg">
+  <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
+  <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
+  <img height="48px" src="https://cdn.svgporn.com/logos/flask.svg">
 </span>
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
