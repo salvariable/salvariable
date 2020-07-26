@@ -6,7 +6,6 @@
   <p>🤔  I’m looking for help with development planning</p>  
   <p>💬  Ask me about philosophy, psychology and introspection</p>  
   <p>📫  How to reach me: DM me on Twitter (same username)</p>  
-  <p>🤓  I have experience working with these:</p>  
 </ul>
 
 <!--START_SECTION:waka-->
