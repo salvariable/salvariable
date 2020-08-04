@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 👋  This is a snippet of what I'm doing right now. I'll upload a project as public repo very soon!
 <ul>
   <p>🔭  I’m currently working on React Native Web related projects</p>
   <p>🌱  I’m currently learning Apollo GraphQL and alternatives to Redux</p>
