@@ -13,19 +13,19 @@ I'm a React Native developer with 2y experience working with core and community 
 # Experience:
 
 * **MOBILE LEADER**
-    (BEEPQUEST [PROD](https://play.google.com/store/apps/details?id=com.beepquestnew&showAllReviews=true) | JUN 2019 - JUL 2020)
+    (BEEPQUEST [APP](https://play.google.com/store/apps/details?id=com.beepquestnew&showAllReviews=true) | JUN 2019 - JUL 2020)
     * Developed features for smooth navigation, supporting offline and transfer images efficiently
     * Refactored and maintained legacy code, performed major updates on crucial dependencies
     * Stack: ES6, React Native, Firebase, Apollo GraphQL
 
 * **FRONT-END DEVELOPER**
-    (VINCO ORBIS [PROD](https://play.google.com/store/apps/details?id=com.re.refuah) | AUG 2018 - MAR 2019)
+    (VINCO ORBIS [REFUAH](https://play.google.com/store/apps/details?id=com.re.refuah) | AUG 2018 - MAR 2019)
     * Developed a CRUD app for live reading sessions with a host and multiple participants
     * Supported the design of the API and developed webcomponents for an internal management tool
     * Stack: ES6, React Native, Firebase, Fastlane, ReactJS, Redux
 
 * **FRONT-END DEVELOPER**
-    (EASSYMO [OOB] | FEB 2018 - JUL 2018)
+    (EASSYMO [OoB] | FEB 2018 - JUL 2018)
     * Developed layouts, UI components and functionalities for an eCommerce app 
     * Designed, develop and deployed an internal app for listing and validating deliveries
     * Stack: TypeScript, Expo
