@@ -1,32 +1,41 @@
-### Hi there 👋  This is a snippet of what I'm doing right now. I'll upload a project as public repo very soon!
-<ul>
-  <p>🔭  I’m currently working on React Native Web related projects</p>
-  <p>🌱  I’m currently learning Apollo GraphQL and alternatives to Redux</p>
-  <p>👯  I’m looking to collaborate on mobile projects with a social impact</p>  
-  <p>🤔  I’m looking for help with development planning</p>  
-  <p>💬  Ask me about philosophy, psychology and introspection</p>  
-  <p>📫  How to reach me: DM me on Twitter (same username)</p>  
-</ul>
+# Hi there 👋 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+I'm a React Native developer with 2y experience working with core and community components. Before that I worked +5y as a manager for digital projects, most of the time doing UX and working with multidisciplinary teams to adhere as strictly as possible to the user's needs, requirements and expectations.
+
+  <p>🌱  I’m currently working on side projects with React Native (even RNW), Context API and GraphQL</p>
+  <p>👯  I’m looking to collaborate on mobile projects with a social impact</p>  
+  <p>💬  Ask me about a problem, specially if it is existencial :) #philosophy</p>  
+
+📫 How to reach me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/salvariable) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/salvadorbolanos)
+
+# Experience:
+
+* **MOBILE LEADER**
+    (BEEPQUEST [PROD](https://play.google.com/store/apps/details?id=com.beepquestnew&showAllReviews=true) | JUN 2019 - JUL 2020)
+    * Developed features for smooth navigation, supporting offline and transfer images efficiently
+    * Refactored and maintained legacy code, performed major updates on crucial dependencies
+    * Stack: ES6, React Native, Firebase, Apollo GraphQL
+
+* **FRONT-END DEVELOPER**
+    (VINCO ORBIS [PROD](https://play.google.com/store/apps/details?id=com.re.refuah) | AUG 2018 - MAR 2019)
+    * Developed a CRUD app for live reading sessions with a host and multiple participants
+    * Supported the design of the API and developed webcomponents for an internal management tool
+    * Stack: ES6, React Native, Firebase, Fastlane, ReactJS, Redux
+
+* **FRONT-END DEVELOPER**
+    (EASSYMO [OOB] | FEB 2018 - JUL 2018)
+    * Developed layouts, UI components and functionalities for an eCommerce app 
+    * Designed, develop and deployed an internal app for listing and validating deliveries
+    * Stack: TypeScript, Expo
+
+## :nerd_face: Preferred stack:
 
 <span>
   <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
-  <img height="48px" src="https://cdn.svgporn.com/logos/expo.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/firebase.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/graphql.svg">
-  <img height="48px" src="https://cdn.svgporn.com/logos/redux.svg">
-  <img height="48px" src="https://cdn.svgporn.com/logos/fastlane.svg">
-  <img height="48px" src="https://cdn.svgporn.com/logos/git.svg">
-  <img height="48px" src="https://cdn.svgporn.com/logos/eslint.svg">
-  <img height="48px" src="https://cdn.svgporn.com/logos/prettier.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
-  <img height="48px" src="https://cdn.svgporn.com/logos/python.svg">
-  <img height="48px" src="https://cdn.svgporn.com/logos/flask.svg">
 </span>
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-
