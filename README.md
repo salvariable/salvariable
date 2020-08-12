@@ -4,7 +4,6 @@ I'm a React Native developer with 2y experience working with core and community 
 
   <p>🌱  I’m currently working on side projects with React Native (even RNW), Context API and GraphQL</p>
   <p>👯  I’m looking to collaborate on mobile projects with a social impact</p>  
-  <p>💬  Ask me about a problem, specially if it is existencial :) #philosophy</p>  
 
 📫 How to reach me:
 
