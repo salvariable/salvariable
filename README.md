@@ -19,12 +19,12 @@ I'm a React Native developer with 2y experience working with core and community 
     * Stack: ES6, React Native, Firebase, Apollo GraphQL
 
 * **FRONT-END DEVELOPER**
-    (VINCO ORBIS [REFUAH](https://play.google.com/store/apps/details?id=com.re.refuah) | AUG 2018 - MAR 2019)
+    (VINCO ORBIS [APP](https://play.google.com/store/apps/details?id=com.re.refuah) | AUG 2018 - MAR 2019)
     * Developed a CRUD app for live reading sessions with a host and multiple participants
     * Supported the design of the API and developed webcomponents for an internal management tool
     * Stack: ES6, React Native, Firebase, Fastlane, ReactJS, Redux
 
-* **FRONT-END DEVELOPER**
+* **MOBILE DEVELOPER**
     (EASSYMO [OoB] | FEB 2018 - JUL 2018)
     * Developed layouts, UI components and functionalities for an eCommerce app 
     * Designed, develop and deployed an internal app for listing and validating deliveries
