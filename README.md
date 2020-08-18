@@ -1,13 +1,13 @@
 # Hi there 👋 
-
-I'm a React Native developer with 2y experience working with core and community components. Before that I worked +5y as a manager for digital projects, most of the time doing UX and working with multidisciplinary teams to adhere as strictly as possible to the user's needs, requirements and expectations.
-
-  <p>🌱  I’m currently working on side projects with React Native (even RNW), Context API and GraphQL</p>
-  <p>👯  I’m looking to collaborate on mobile projects with a social impact</p>  
-
-📫 How to reach me:
-
+  
+  <p>🤓  I have +5y of experience working as a PM; +2y as mobile developer</p>
+  <p>🏗️  I’m working on side projects using React Native, Context API, AWS and GraphQL</p>
+  <p>🌱  I’m looking to collaborate with organisations focused on making a social impact</p>
+  <p>📫  How to reach me:</p>
+  
+  
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/salvariable) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/salvadorbolanos)
+
 
 # Experience:
 
