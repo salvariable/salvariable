@@ -1,10 +1,7 @@
 # Hi there 👋 
   
-  <p>🤓  I have +5y of experience working as a PM; +2y as mobile developer</p>
   <p>🏗️  I’m working on side projects using React Native, Context API, AWS and GraphQL</p>
-  <p>🌱  I’m looking to collaborate with organisations focused on making a social impact</p>
   <p>📫  How to reach me:</p>
-  
   
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/salvariable) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/salvadorbolanos)
 
