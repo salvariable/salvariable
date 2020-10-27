@@ -29,13 +29,10 @@
 ## :nerd_face: Preferred stack:
 
 <span>
+  <img height="48px" src="https://cdn.svgporn.com/logos/nodejs.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/react.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/firebase.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/graphql.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
-  <img height="48px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-  <img height="48px" src="https://cdn.svgporn.com/logos/express.svg">
-  <img height="48px" src="https://cdn.svgporn.com/logos/typescript.svg">
-  <img height="48px" src="https://cdn.svgporn.com/logos/nodejs.svg">
 </span>
