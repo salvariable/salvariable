@@ -34,4 +34,5 @@
   <img height="48px" src="https://cdn.svgporn.com/logos/firebase.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/graphql.svg">
   <img height="48px" src="https://cdn.svgporn.com/logos/aws.svg">
+  <img height="48px" src="https://cdn.svgporn.com/logos/node.svg">
 </span>
